@@ -1,0 +1,3 @@
+if any file or folder has to ignore than make a ".gitignore" name file and add the file or folder name in that and then just simply add the all file by git add .
+
+all the files would be ignore which are in the ".gitignore"

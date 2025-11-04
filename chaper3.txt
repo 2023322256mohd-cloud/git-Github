@@ -1,0 +1,1 @@
+if we can add all the files by mistake then use command to undo this "git rm --cached -r ."
