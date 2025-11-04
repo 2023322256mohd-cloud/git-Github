@@ -1,0 +1,1 @@
+we can push our code to git by the command "git push <remote name> <branch name>"->deafault branch is main
