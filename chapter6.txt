@@ -1,0 +1,4 @@
+for making another branch "git branch <branchName>" ex:feature1
+for swich to the branch "git checkout <branchName>"
+git branch-> for checking
+for merging them "git merge <name-of-branch>"
